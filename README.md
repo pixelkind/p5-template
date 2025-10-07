@@ -15,7 +15,7 @@ This template provides a simple setup for publishing p5.js games. It includes th
    - To change the title that appears in the browser tab, open the `index.html` file.
    - Locate line 6:
      ```html
-     <title>Foundations of Programming</title>
+     <title>Game</title>
      ```
    - Replace **only** the text between `<title>` and `</title>` with your desired title.
 
@@ -33,6 +33,6 @@ This template provides a simple setup for publishing p5.js games. It includes th
 
 3. **Waiting for Deployment**
    - It may take a moment for GitHub Pages to deploy your site. You can check the deployment status under **Actions** in the top menu.
-   - Once deployed, you can access your game at `https://ju-nmd2024.github.io/<your-repository-name>`.
+   - Once deployed, you can access your game at `https://<your-username>.github.io/<your-repository-name>`.
 
 Happy coding 🐹!
